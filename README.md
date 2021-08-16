@@ -10,4 +10,4 @@ sombriks@physalis:~/git/sample-maven-package> TOKEN=<github token here> mvn -s s
 
 ## how to use
 
-see [this project](tbd)
+see [this project](https://github.com/sombriks/using-sample-maven-package)
